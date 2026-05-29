@@ -1,4 +1,4 @@
-# ApiSimpleProject
+# ApiConversor
 Simple python project where uses an Api of currency conversion,
 conversions in euro, dollar and brl
 ##
@@ -6,5 +6,5 @@ conversions in euro, dollar and brl
 - Libraries used: tkinter, requests, combobox
 !
 ## Who to execute
-```by code editor
+```Execute:
 python UI_conversor.py
